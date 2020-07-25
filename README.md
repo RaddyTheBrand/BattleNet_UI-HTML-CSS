@@ -1,5 +1,7 @@
 # Battle.net UI - HTML, CSS(SCSS)
 
+![Screenshot](https://raddy.co.uk/wp-content/uploads/2020/06/battlenet-ui-html-css__compressed-768x432.jpg)
+
 This was created as part of YouTube Video. Links below
 
 ### YouTube Video & Article
