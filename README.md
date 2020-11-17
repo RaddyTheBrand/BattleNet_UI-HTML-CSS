@@ -1,6 +1,6 @@
 # Battle.net UI - HTML, CSS(SCSS)
 
-![Screenshot](https://raddy.co.uk/wp-content/uploads/2020/06/e-commerce-ui-adobe-xd-3_compressed-768x432.jpg)
+![Screenshot](https://raddy.co.uk/wp-content/uploads/2020/06/battlenet-ui-html-css__compressed.jpg)
 
 This was created as part of YouTube Video. Links below
 
